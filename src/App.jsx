@@ -7,8 +7,8 @@ function App() {
     <>
     <div className="bg-gray-100">
         <Todos />
-        <Todos />
-        <Todos />
+        {/*<Todos />*/}
+        {/*<Todos />*/}
     </div>
     </>
   )
